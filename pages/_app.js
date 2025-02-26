@@ -17,10 +17,11 @@ function MyApp({ Component, pageProps }) {
 
   return (
     <Layout>
-      <Head title={`Nitin Ranganath | ${pageProps.title}`} />
+      <Head title={`Aryan Thapaliya | ${pageProps.title}`} />
       <Component {...pageProps} />
     </Layout>
-  );
-}
 
+);
+
+}
 export default MyApp;

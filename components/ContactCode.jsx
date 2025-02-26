@@ -3,23 +3,23 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'nitinranganath.me',
-    href: 'https://nitinranganath.me',
+    link: 'CWA-portfolio.com',
+    href: '#',
   },
   {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'codewitharyan4@gmail.com',
+    href: 'mailto:codewitharyan4@gmail.com',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'Dev-Aryan-T',
+    href: 'https://github.com/Dev-Aryan-T',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
+    link: 'Aryan Thapaliya',
+    href: '#',
   },
   {
     social: 'twitter',
@@ -43,13 +43,13 @@ const contactItems = [
   },
   {
     social: 'codepen',
-    link: 'nitinranganath',
-    href: 'https://codepen.io/itsnitinr',
+    link: 'Aryan',
+    href: '#',
   },
   {
     social: 'codesandbox',
-    link: 'itsnitinr',
-    href: 'https://codesandbox.io/u/itsnitinr',
+    link: 'Aryan',
+    href: '#',
   },
 ];
 
