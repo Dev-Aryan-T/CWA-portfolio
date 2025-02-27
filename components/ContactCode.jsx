@@ -28,29 +28,12 @@ const contactItems = [
   },
   {
     social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
-  },
-  {
-    social: 'polywork',
-    link: 'nitinranganath',
-    href: 'https://www.polywork.com/nitinranganath',
-  },
-  {
-    social: 'telegram',
-    link: 'iamnitinr',
-    href: 'https://t.me/iamnitinr',
-  },
-  {
-    social: 'codepen',
-    link: 'Aryan',
+    link: 'AT-IITB',
     href: '#',
   },
-  {
-    social: 'codesandbox',
-    link: 'Aryan',
-    href: '#',
-  },
+
+  
+ 
 ];
 
 const ContactCode = () => {
