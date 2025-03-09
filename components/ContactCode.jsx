@@ -23,8 +23,8 @@ const contactItems = [
   },
   {
     social: 'twitter',
-    link: 'iamnitinr',
-    href: 'https://www.twitter.com/iamnitinr',
+    link: 'Banauna baki xa',
+    href: '#',
   },
   {
     social: 'instagram',
