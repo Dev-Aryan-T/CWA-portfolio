@@ -5,11 +5,11 @@ import styles from '../styles/ProjectsPage.module.css';
 const ProjectsPage = ({ projects }) => {
   return (
     <>
-      <h3>Stuff I've Built So Far</h3>
+      <h3>Projects banako xaina hau paila IIT Bombay Computer Science ma ta jana deu tes paxi banaula.</h3>
       <div className={styles.container}>
-        {projects.map((project) => (
-          <ProjectCard key={project.id} project={project} />
-        ))}
+        {/* {projects.map((project) => (
+         <  ProjectCard key={project.id} project={project} />   // use this code in future when you make project
+        ))} */}
       </div>
     </>
   );
